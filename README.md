@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PratyushSingh1
+- 👋 Hi, I’m @PratyushSingh
 - 👀 I’m interested in Data Science, Data Analytics and business Analytics
 - 🌱 I’m currently learning Data Science and machine learning
 - 💞️ I’m looking to collaborate on ...
