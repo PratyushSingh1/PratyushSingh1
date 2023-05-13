@@ -1,3 +1,4 @@
+![christopher-gower-m_HRfLhgABo-unsplash](https://github.com/PratyushSingh1/PratyushSingh1/assets/87380102/bd1ad26f-ba3e-4e00-896b-71af4065dbc1)
 
 
 <h1 align="center">Heya 👋, I'm Pratyush Singh</h1>
