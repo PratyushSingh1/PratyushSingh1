@@ -4,7 +4,7 @@
 <h1 align="center">Heya 👋, I'm Pratyush Singh</h1>
 <h3 align="center">I am passionate about Data Science Domain from India</h3>
 
-<img alt="Coder GIF" align = "right" height=250 width=300 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
+<img alt="Coder GIF" align = "right" height=300 width=500 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyushsingh1&label=Profile%20views&color=0e75b6&style=flat" alt="pratyushsingh1" /> </p>
 
