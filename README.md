@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **singhpratyush551@gmail.com**
 
-- ⚡ Fun fact **I am dedicated 😎**
+- ⚡  **I am dedicated 😎 and I am quick learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
